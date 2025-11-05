@@ -1,0 +1,9 @@
+{
+  "database": {
+    "user": "cfg_user",
+    "password": "CFG_FAKE_PASS_123"
+  },
+  "service": {
+    "apiKey": "CFG_FAKE_API_KEY_456"
+  }
+}
