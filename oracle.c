@@ -20,7 +20,7 @@ int main() {
     sword status;
 
     const char *username = "jjcorr-user";
-    const char *password = "pasword12345"
+    const char *password = "pasword12345";
     const char *conn_str = "your_oracle_host:1521/your_service_name";
 
     
